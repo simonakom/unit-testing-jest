@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1726056575251" clover="3.2.0">
-  <project timestamp="1726056575251" name="All files">
+<coverage generated="1726056655222" clover="3.2.0">
+  <project timestamp="1726056655222" name="All files">
     <metrics statements="118" coveredstatements="118" conditionals="35" coveredconditionals="35" methods="9" coveredmethods="9" elements="162" coveredelements="162" complexity="0" loc="118" ncloc="118" packages="1" files="7" classes="7"/>
     <file name="anagram.js" path="/Users/simonak/Desktop/unit-testing-jest/anagram.js">
       <metrics statements="10" coveredstatements="10" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
