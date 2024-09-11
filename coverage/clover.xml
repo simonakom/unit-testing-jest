@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1726056655222" clover="3.2.0">
-  <project timestamp="1726056655222" name="All files">
+<coverage generated="1726056827592" clover="3.2.0">
+  <project timestamp="1726056827592" name="All files">
     <metrics statements="118" coveredstatements="118" conditionals="35" coveredconditionals="35" methods="9" coveredmethods="9" elements="162" coveredelements="162" complexity="0" loc="118" ncloc="118" packages="1" files="7" classes="7"/>
-    <file name="anagram.js" path="/Users/simonak/Desktop/unit-testing-jest/anagram.js">
+    <file name="anagram.js" path="/Users/simonak/Desktop/GIT-QA/unit-testing-jest/anagram.js">
       <metrics statements="10" coveredstatements="10" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <line num="1" count="7" type="cond" truecount="1" falsecount="0"/>
       <line num="2" count="7" type="cond" truecount="2" falsecount="0"/>
@@ -15,7 +15,7 @@
       <line num="9" count="1" type="stmt"/>
       <line num="10" count="1" type="stmt"/>
     </file>
-    <file name="factorial.js" path="/Users/simonak/Desktop/unit-testing-jest/factorial.js">
+    <file name="factorial.js" path="/Users/simonak/Desktop/GIT-QA/unit-testing-jest/factorial.js">
       <metrics statements="20" coveredstatements="20" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
       <line num="1" count="6" type="cond" truecount="1" falsecount="0"/>
       <line num="2" count="6" type="cond" truecount="1" falsecount="0"/>
@@ -38,7 +38,7 @@
       <line num="19" count="1" type="stmt"/>
       <line num="20" count="1" type="stmt"/>
     </file>
-    <file name="fibonacci.js" path="/Users/simonak/Desktop/unit-testing-jest/fibonacci.js">
+    <file name="fibonacci.js" path="/Users/simonak/Desktop/GIT-QA/unit-testing-jest/fibonacci.js">
       <metrics statements="22" coveredstatements="22" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
       <line num="1" count="7" type="cond" truecount="1" falsecount="0"/>
       <line num="2" count="7" type="cond" truecount="2" falsecount="0"/>
@@ -63,7 +63,7 @@
       <line num="21" count="1" type="stmt"/>
       <line num="22" count="1" type="stmt"/>
     </file>
-    <file name="palindrome.js" path="/Users/simonak/Desktop/unit-testing-jest/palindrome.js">
+    <file name="palindrome.js" path="/Users/simonak/Desktop/GIT-QA/unit-testing-jest/palindrome.js">
       <metrics statements="12" coveredstatements="12" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <line num="1" count="7" type="cond" truecount="1" falsecount="0"/>
       <line num="2" count="7" type="cond" truecount="1" falsecount="0"/>
@@ -78,7 +78,7 @@
       <line num="11" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
     </file>
-    <file name="prime.js" path="/Users/simonak/Desktop/unit-testing-jest/prime.js">
+    <file name="prime.js" path="/Users/simonak/Desktop/GIT-QA/unit-testing-jest/prime.js">
       <metrics statements="22" coveredstatements="22" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
       <line num="1" count="15" type="cond" truecount="1" falsecount="0"/>
       <line num="2" count="15" type="cond" truecount="1" falsecount="0"/>
@@ -103,7 +103,7 @@
       <line num="21" count="1" type="stmt"/>
       <line num="22" count="1" type="stmt"/>
     </file>
-    <file name="reverse.js" path="/Users/simonak/Desktop/unit-testing-jest/reverse.js">
+    <file name="reverse.js" path="/Users/simonak/Desktop/GIT-QA/unit-testing-jest/reverse.js">
       <metrics statements="12" coveredstatements="12" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <line num="1" count="5" type="cond" truecount="1" falsecount="0"/>
       <line num="2" count="5" type="cond" truecount="1" falsecount="0"/>
@@ -118,7 +118,7 @@
       <line num="11" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
     </file>
-    <file name="sum.js" path="/Users/simonak/Desktop/unit-testing-jest/sum.js">
+    <file name="sum.js" path="/Users/simonak/Desktop/GIT-QA/unit-testing-jest/sum.js">
       <metrics statements="20" coveredstatements="20" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
       <line num="1" count="2" type="cond" truecount="1" falsecount="0"/>
       <line num="2" count="2" type="stmt"/>
