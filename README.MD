@@ -7,21 +7,23 @@ https://jestjs.io/docs/getting-started
 
 ## Installation
 
-1. Install `package.json` via npm:
+1. Clone this repository to your local machine
+
+2. Install `package.json` via npm:
 
 
     ```bash
     npm init
     ```
 
-2. Install `node modules` and `package-lock.json` via npm:
+3. Install `node modules` and `package-lock.json` via npm:
 
 
    ```bash
     npm install --save-dev jest 
     ```
 
-3. In `package.json` change:
+4. In `package.json` change:
 
   ```bash
       "scripts": {
