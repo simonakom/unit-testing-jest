@@ -35,7 +35,7 @@ https://jestjs.io/docs/getting-started
 
   ```bash
        "scripts": {
-        "test": "jest --coverage"
+          "test": "jest --coverage"
       },
   ```
 
