@@ -9,7 +9,7 @@ https://jestjs.io/docs/getting-started
 
 1. Clone this repository to your local machine
 
-2. Install `package.json` via npm:
+2. Create `package.json` via npm:
 
 
     ```bash
