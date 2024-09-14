@@ -29,7 +29,7 @@ https://jestjs.io/docs/getting-started
       },
   ```
 
-  in order to to have test `coverage` report, change to:
+  in order to have test `coverage` report, change to:
 
   ```bash
        "scripts": {
