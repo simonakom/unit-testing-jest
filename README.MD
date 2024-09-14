@@ -16,7 +16,7 @@ https://jestjs.io/docs/getting-started
     npm init
     ```
 
-3. Install `node modules` and `package-lock.json` via npm:
+3. Install `jest` with "node modules" and "package-lock.json" via npm:
 
 
    ```bash
