@@ -21,34 +21,7 @@ https://jestjs.io/docs/getting-started
     npm install --save-dev jest 
     ```
 
-
-3. Create a js file named `sum.js` with the following sample data:
-
- ```javascript
-    function sum(a, b) {
-      return a + b;
-    }
-
-    module.exports = sum;
-  ```
-
-  3. Create a js "test" file named `sum.test.js` with the following sample data:
-
- ```javascript
-const sum = require("./sum");
-
-describe("sum tests", () => {
-  test("adds 1 + 1 to equal 2", () => {
-    expect(sum(1, 1)).toBe(2);
-  });
-
-  test("adds 1 + 2 to equal 3", () => {
-    expect(sum(1, 2)).toEqual(3);
-  });
-});
-  ```
-
-  4. In `package.json` change:
+3. In `package.json` change:
 
   ```bash
       "scripts": {
@@ -56,7 +29,7 @@ describe("sum tests", () => {
       },
   ```
 
-  or to have test `coverage` report change:
+  in order to to have test `coverage` report, change to:
 
   ```bash
        "scripts": {
