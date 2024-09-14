@@ -11,17 +11,15 @@ https://jestjs.io/docs/getting-started
 
 2. Create `package.json` via npm:
 
-
-    ```bash
-    npm init
-    ```
+  ```bash
+  npm init
+```
 
 3. Install `jest` with "node modules" and "package-lock.json" via npm:
 
-
-   ```bash
-    npm install --save-dev jest 
-    ```
+  ```bash
+  npm install --save-dev jest 
+  ```
 
 4. In `package.json` change:
 
@@ -34,7 +32,7 @@ https://jestjs.io/docs/getting-started
   In order to have test `coverage` report, change to:
 
   ```bash
-       "scripts": {
+        "scripts": {
           "test": "jest --coverage"
       },
   ```
