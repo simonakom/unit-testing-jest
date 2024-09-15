@@ -46,18 +46,17 @@ This adds new `coverage` directory --> with `Icov-report` folder --> `index.html
       npm test
   ```
 
-  ## Additional Configurations (verbosity)
+## Additional Configurations (verbosity)
 
-  1. Add configuration after which appear `jest.config.js` directory:
+1. Installs the latest version of "Jest" after which appear `jest.config.js` configuration file:
 
   ```bash
       npm init jest@latest
   ```
 
-2. The `verbose` option increases the level of detail in the test output:
+2. In end of `jest.config.js` file unhide:
 
-- In `jest.config.js` add:
-
-  `// Indicates whether each individual test should be reported during the run`
-
-   ` verbose: true,`
+  ```bash
+   verbose: true,
+   ```
+   The `verbose` option increases the level of detail in the test output.
