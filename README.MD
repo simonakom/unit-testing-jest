@@ -54,7 +54,7 @@ This adds new `coverage` directory --> with `Icov-report` folder --> `index.html
       npm init jest@latest
   ```
 
-2. In end of `jest.config.js` file change:
+2. In the end of `jest.config.js` file change:
 
   ```bash
    verbose: true,
