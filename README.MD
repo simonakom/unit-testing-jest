@@ -48,7 +48,7 @@ This adds new `coverage` directory --> with `Icov-report` folder --> `index.html
 
 ## Additional Configurations (verbosity)
 
-1. Installs the latest version of "Jest" after which appear `jest.config.js` configuration file:
+1. Install the latest version of "Jest" after which appear `jest.config.js` configuration file:
 
   ```bash
       npm init jest@latest
