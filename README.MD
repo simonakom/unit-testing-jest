@@ -9,7 +9,7 @@ https://jestjs.io/docs/getting-started
 
 1. Clone this repository to your local machine.
 
-2. Install dependencies.
+2. Install dependencies:
 
 ```bash
   npm install
@@ -32,7 +32,7 @@ https://jestjs.io/docs/getting-started
 
 ## Additional Configurations (verbosity)
 
- 1. After instaling the latest version of Jest `npm init jest@latest` appear "jest.config.js" configuration file.
+ 1. After instaling the latest version of Jest - `npm init jest@latest` - appears "jest.config.js" configuration file.
 
  2. In the end of `jest.config.js` changed:
 
