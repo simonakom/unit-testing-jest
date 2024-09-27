@@ -45,4 +45,3 @@ https://jestjs.io/docs/getting-started
   ```
 
 The `verbose` option increases the level of detail in the test output.
-
